@@ -1,4 +1,4 @@
-public class ModificarCadena2 {
+public class ModificarCadena3 {
 
     public static void modificarCadena(String texto) {
         texto = texto + " modificado";

@@ -7,7 +7,7 @@ public class anagrama {
         System.out.println("ingrese la palabra dos");
         String palabraDos = scanner.nextLine();
 
-        for(int i = 0; i < palabraUno.length; )
+        for(int i = 0; i < palabraUno.length(); )
 
 
         scanner.close();
